@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caihuascript/utils.git"
+    "url": "git+https://github.com/caihuascript/react-simple-utils.git"
   },
   "keywords": [
     "function",
@@ -19,9 +19,9 @@
   "author": "caihuascript",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caihuascript/utils/issues"
+    "url": "https://github.com/caihuascript/react-simple-utils/issues"
   },
-  "homepage": "https://github.com/caihuascript/utils#readme",
+  "homepage": "https://github.com/caihuascript/react-simple-utils#readme",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
