@@ -6,7 +6,7 @@ React 组件脚手架，可以调试、打包、发布单个 React 组件。
 想使用本脚手架，只需要：
 
 ```sh
-git clone https://github.com/caihuascript/utils.git component_name
+git clone https://github.com/caihuascript/react-simple-utils.git component_name
 ```
 
 ## 调试
