@@ -2,11 +2,12 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
 import {} from "./src/index.scss";
-import { traverseTree, judgeBrowser } from "./src/index.js";
+import a, { traverseTree, judgeBrowser } from "./src/index.js";
 class App extends React.Component {
   componentDidMount() {
     let treeData = [];
     console.log(judgeBrowser());
+    console.log(a);
   }
 
   render() {
